@@ -101,8 +101,6 @@ A long time ago, I was a scripter on this project. Many people knew me by the ni
 
 - Project: Smit Role Play
 - Original Release: 2020
-- Website: SmitRp.Ru (archived)
-- VK Group: [vk.com/smit_rp](https://vk.com/smit_rp)
 
 ## 📜 License
 
